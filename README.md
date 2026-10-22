@@ -1,7 +1,9 @@
 <!-- repo-entrypoint-guide:start -->
-> **Repository context:** This is a copy of the Bitcoin Core source tree. The build, testing, security, and contribution information below comes from the Bitcoin Core project, not an independent release or audit of `scottjoyner/bitcoin`.
-> 
-> **Before use:** Verify the source revision and official signatures against upstream Bitcoin Core. Do not use an unreviewed checkout to store funds or operate production infrastructure.
+## Repository guide
+
+**Repository context:** This is a copy of the Bitcoin Core source tree. The build, testing, security, and contribution information below comes from the Bitcoin Core project, not an independent release or audit of `scottjoyner/bitcoin`.
+
+**Before use:** Verify the source revision and official signatures against upstream Bitcoin Core. Do not use an unreviewed checkout to store funds or operate production infrastructure.
 <!-- repo-entrypoint-guide:end -->
 
 Bitcoin Core integration/staging tree
